@@ -20,6 +20,6 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 ## Ejecutando las pruebas ⚙️
 
 ```
-https://python-page.herokuapp.com
+https://webpythonpage.herokuapp.com
 ```
 
